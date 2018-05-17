@@ -1,0 +1,50 @@
+from time import sleep    # ervin
+while True:               # Ervin
+
+
+    print("This is the minus section everytime you get a question wrong you go back to the start") #ervin
+    sleep(2)  #ervin
+    
+    while True:
+        choice=input("what is 33-11=") #ervin
+        if choice == "22":   #ervin
+            print("that is the right answer you move on to the next question")#ervin
+            break        #ervin
+        else:  #ervin
+            print("incorrect")  #ervin
+    
+    while True:  #ervin      
+        print("question 2.") #ervin 
+        choice=input("what is 80-12") #ervin 
+        if choice == "68": #ervin 
+            print("that is the correct answer") #ervin 
+            break  #ervin 
+        else:      #ervin 
+            print("incorrect") #ervin 
+    
+    while True:   #ervin 
+        print("question 3.")  #ervin 
+        choice=input("what is 56-9")  #ervin  
+        if choice == "47":  #ervin 
+            print("that is correct you are smart")  #ervin 
+            break   #ervin 
+        else:    #ervin 
+            print("incorrect") #ervin 
+        
+    while True:  #ervin
+        print("question 4.") #ervin
+        choice=input("what is 68-13") #ervin
+        if choice == "55": #ervin
+            print("that is correct") #ervin
+            break #ervin
+        else:  #ervin
+            print("incorrect") #ervin
+        
+    while True: #ervin
+        print("question 5. this the last question of minus") #ervin
+        choice=input("what is 99-99")  #ervin
+        if choice == "0":  #ervin
+            print("that is correct you are moving on to the next round")  #ervin
+            break #ervin
+        else:   #ervin
+            print("incorrect") #ervin
