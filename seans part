@@ -1,0 +1,52 @@
+from time import sleep
+
+print("You wake up inside a calculator. You need to answer every single question right to get outside of the calculator.") #sean
+sleep(3) #sean
+print("If you get 1 question wrong you will go straight back to the start and you will have to answer all the questions again") #sean
+sleep(10) #sean
+
+print("you are in your first level of the calculator. ADDITION!!! This will be the first and easiest level. How far will you make it?") #sean
+while True:  #sean
+    choice=input("what is 1 + 1 ?") #sean
+    if choice == "2": #sean
+        print("Congrats you got the first one right!") #sean
+        break #sean
+        
+    else: 
+         print("incorrect") #sean
+            
+while True:  #sean
+    choice=input("what is 25 + 62 ?") #sean
+    if choice == "87": #sean
+        print("Well Done you're on a role!") #sean
+        break #sean
+        
+    else: #sean
+            print("You got it wrong sorry!!") #sean
+            
+while True:  #sean
+    choice=input("what is 120 + 115 + 11?") #sean
+    if choice == "246": #sean
+        print("3 Already!! yesss") #sean
+        break #sean
+        
+    else: #sean
+            print("Whoops That's wrong!!") #sean
+            
+while True:  #sean
+    choice=input("what is 225 + 33 + 192 + 68?") #sean
+    if choice == "518": #sean
+        print("4!! you are insane") #sean
+        break #sean
+        
+    else: #sean
+            print("Unlucky but thats wrong!!") #sean
+            
+while True:  #sean
+    choice=input("what is 100+666+420+77+88+119?") #sean
+    if choice == "1470": #sean
+        print("5?! You've made it all the way congratulations") #sean
+        break #sean
+        
+    else: #sean
+        print("Get Gud kid!!") #sean
