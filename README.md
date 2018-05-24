@@ -91,52 +91,202 @@ else: print ("inncorrect")
                # Ervin
 
 
-print("This is the minus section everytime you will repeat it") #ervin
-sleep(2)  #ervin
+from time import sleep    # ervin
+while True:               # Ervin
+
+
+   print("This is the minus section everytime you get another go") #ervin
+   sleep(2)  #ervin
     
-while True:
-    choice=input("what is 33-11=") #ervin
-    if choice == "22":   #ervin
-        print("that is the right answer you move on to the next question")#ervin
-        break        #ervin
-    else:  #ervin
-        print("incorrect")  #ervin
+   while True:
+        choice=input("what is 33-11=") #ervin
+        if choice == "22":   #ervin
+            print("that is the right answer you move on to the next question")#ervin
+            break        #ervin
+        else:  #ervin
+            print("incorrect")  #ervin
     
-while True:  #ervin      
-    print("question 2.") #ervin 
-    choice=input("what is 80-12") #ervin 
-    if choice == "68": #ervin 
-        print("that is the correct answer") #ervin 
-        break  #ervin 
-    else:      #ervin 
-        print("incorrect") #ervin 
+   while True:  #ervin      
+        print("question 2.") #ervin 
+        choice=input("what is 80-12") #ervin 
+        if choice == "68": #ervin 
+            print("that is the correct answer") #ervin 
+            break  #ervin 
+        else:      #ervin 
+            print("incorrect") #ervin 
     
-while True:   #ervin 
-    print("question 3.")  #ervin 
-    choice=input("what is 56-9")  #ervin  
-    if choice == "47":  #ervin 
-        print("that is correct you are smart")  #ervin 
-        break   #ervin 
-    else:    #ervin 
-        print("incorrect") #ervin 
+   while True:   #ervin 
+        print("question 3.")  #ervin 
+        choice=input("what is 56-9")  #ervin  
+        if choice == "47":  #ervin 
+            print("that is correct you are smart")  #ervin 
+            break   #ervin 
+        else:    #ervin 
+            print("incorrect") #ervin 
         
-while True:  #ervin
-    print("question 4.") #ervin
-    choice=input("what is 68-13") #ervin
-    if choice == "55": #ervin
-        print("that is correct") #ervin
-        break #ervin
-    else:  #ervin
-        print("incorrect") #ervin
+   while True:  #ervin
+        print("question 4.") #ervin
+        choice=input("what is 68-13") #ervin
+        if choice == "55": #ervin
+            print("that is correct") #ervin
+            break #ervin
+        else:  #ervin
+            print("incorrect") #ervin
         
-while True: #ervin
-    print("question 5. this the last question of minus") #ervin
-    choice=input("what is 99-99")  #ervin
-    if choice == "0":  #ervin
-        print("that is correct you are moving on to the next round")  #ervin
-        break #ervin
-    else:   #ervin
-        print("incorrect") #ervin
+   while True: #ervin
+        print("question 5.") #ervin
+        choice=input("what is 99-99")  #ervin
+        if choice == "0":  #ervin
+            print("that is correct you are moving on to the next round")  #ervin
+            break #ervin
+        else:   #ervin
+            print("incorrect") #ervin 
+            
+   while True:  #ervin
+        print("question 6.") #ervin
+        choice=input("what is 42-13") #ervin
+        if choice == "29": #ervin
+            print("that is correct") #ervin
+            break #ervin
+        else:  #ervin
+            print("incorrect try again") #ervin
+            
+   while True:  #ervin
+        print("question 7.") #ervin
+        choice=input("what is 867-122") #ervin
+        if choice == "745": #ervin
+            print("that is correct") #ervin
+            break #ervin
+        else:  #ervin
+            print("incorrect i dont know the answer either") #ervin
+            
+   while True:  #ervin
+        print("question 8.") #ervin
+        choice=input("what is 186-49") #ervin
+        if choice == "137": #ervin
+            print("that is correct") #ervin
+            break #ervin
+        else:  #ervin
+            print("incorrect") #ervin
+            
+   while True:  #ervin
+        print("question 9.") #ervin
+        choice=input("what is 537-200") #ervin
+        if choice == "337": #ervin
+            print("that is correct") #ervin
+            break #ervin
+        else:  #ervin
+            print("worong") #ervin
+            
+   while True:  #ervin
+        print("question 10.") #ervin
+        choice=input("what is 88-13") #ervin
+        if choice == "75": #ervin
+            print("that is correct") #ervin
+            break #ervin
+        else:  #ervin
+            print("defiently wrong") #ervin
+            
+   while True:  #ervin
+        print("question 11.") #ervin
+        choice=input("what is 1-13") #ervin
+        if choice == "-12": #ervin
+            print("that is correct") #ervin
+            break #ervin
+        else:  #ervin
+            print("try again that is difficult") #ervin
+            
+   while True:  #ervin
+        print("question 12.") #ervin
+        choice=input("what is 999-54") #ervin
+        if choice == "945": #ervin
+            print("that is correct") #ervin
+            break #ervin
+        else:  #ervin
+            print("sorry try again") #ervin
+            
+   while True:  #ervin
+        print("question 13.") #ervin
+        choice=input("what is 777-3") #ervin
+        if choice == "774": #ervin
+            print("that is correct") #ervin
+            break #ervin
+        else:  #ervin
+            print("incorrect") #ervin
+            
+   while True:  #ervin
+        print("question 14.") #ervin
+        choice=input("what is 1002-50") #ervin
+        if choice == "952": #ervin
+            print("that is correct") #ervin
+            break #ervin
+        else:  #ervin
+            print("yoo can do better") #ervin
+            
+   while True:  #ervin
+        print("question 15.") #ervin
+        choice=input("what is 444-44") #ervin
+        if choice == "400": #ervin
+            print("that is correct") #ervin
+            break #ervin
+        else:  #ervin
+            print("wrong answer") #ervin
+            
+   while True:  #ervin
+        print("question 16.") #ervin
+        choice=input("what is 2003-1998") #ervin
+        if choice == "5": #ervin
+            print("that is correct") #ervin
+            break #ervin
+        else:  #ervin
+            print("try again") #ervin
+            
+   while True:  #ervin
+        print("question 17.") #ervin
+        choice=input("what is 6754-156") #ervin
+        if choice == "6598": #ervin
+            print("that is correct") #ervin
+            break #ervin
+        else:  #ervin
+            print("you might need a calculater") #ervin
+            
+   while True:  #ervin
+        print("question 18.") #ervin
+        choice=input("what is 363-123") #ervin
+        if choice == "240": #ervin
+            print("that is correct") #ervin
+            break #ervin
+        else:  #ervin
+            print("incorrect") #ervin
+            
+   while True:  #ervin
+        print("question 19.") #ervin
+        choice=input("what is 876-543") #ervin
+        if choice == "333": #ervin
+            print("that is correct") #ervin
+            break #ervin
+        else:  #ervin
+            print("how did you get the easiest question wrong") #ervin
+            
+   while True:  #ervin
+        print("question 20.") #ervin
+        choice=input("what is 732-289") #ervin
+        if choice == "443": #ervin
+            print("that is correct") #ervin
+            break #ervin
+        else:  #ervin
+            print("that is wrong") #ervin
+            
+   while True:  #ervin
+        print("question 21.") #ervin
+        choice=input("what is 421-88") #ervin
+        if choice == "333": #ervin
+            print("that is correct you have completed the minus section") #ervin
+            break #ervin
+        else:  #ervin
+            print("incorrect try again") #ervin
+            
+    
             
  #Marks code
     
