@@ -1,3 +1,9 @@
+print("this is abbys section")
+print("there is 5")
+print("questions")
+print("hope you enjoy")
+print ("answer correct")
+
 print("this is the multiplication section")
 print("question 1")
 
@@ -33,3 +39,12 @@ choice = input ("whats 7x0")
 if choice == "0":
      print("correct")
 else: print ("inncorrect")
+print(" the bonus")
+print("questiopn")
+print("question 6")
+
+choice = input ("whats 5x5")
+if choice == "25":
+     print("correct")
+else: print ("inncorrect")
+("thanks for compleating the multiplication")
